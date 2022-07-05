@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @csaffawe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-csaffawe/csaffawe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+fun main(args: Array<Any>) {
+ val x = 20
+    if (x !in 10.. 30){
+        println("variable: $x")
+    }
+}
+этот код почему то не выводит результат 
+подскажите в чём проблема 
